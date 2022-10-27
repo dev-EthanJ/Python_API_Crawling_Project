@@ -14,6 +14,10 @@
 
 <br>
 
+`anaconda prompt`에서 `nbextension`과 `rise`를 설치하시면 ppt로 내용 확인 가능합니다.
+
+![rise_example](https://rise.readthedocs.io/en/stable/_images/basic_usage.gif)
+
 ### Project contributor: 나정민, 도형준, 유하영, 장인성
 
 - 나정민: "가계대출금리", "주택전세가격" data 수집, "결론" 작성
