@@ -1,6 +1,4 @@
 # Python_API_Crawling_Project
-# Python_API_Crawling_Project_전세가격_종속변수_독립변수
-
 # 주택 전세 가격과 경제 변수간의 관계
 ## 한국은행 Open API를 이용한 데이터 수집 및 시각화
 
